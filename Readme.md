@@ -18,3 +18,5 @@
 ## Redux
 - https://egghead.io/series/getting-started-with-redux
 
+## GraphQL & Libraries
+- [Lokka](https://github.com/kadirahq/lokka) our graphQl http client for javascript
