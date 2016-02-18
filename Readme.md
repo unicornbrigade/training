@@ -1,7 +1,7 @@
 #UB Training Repository
 
 ##General Javascript Resources
-- [SurviveJS](https://leanpub.com/survivejs_webpack_react)
+- [SurviveJS - Webpack, React, ES6](https://leanpub.com/survivejs_webpack_react)
 - [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## New ES Features
