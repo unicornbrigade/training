@@ -3,6 +3,7 @@
 ##General Javascript Resources
 - [SurviveJS - Webpack, React, ES6](https://leanpub.com/survivejs_webpack_react)
 - [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JS Introductions playlist](https://egghead.io/playlists/js-introductions-3213d642)
 
 ## New ES Features
 - [Interactive demonstration of functional JS - callbacks, promises, await, etc](http://rossboucher.com/await)
